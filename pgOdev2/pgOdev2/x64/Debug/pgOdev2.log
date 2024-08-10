@@ -1,0 +1,9 @@
+﻿  pgOdev2.cpp
+C:\Users\canor\OneDrive\Masaüstü\g221210028 can örge pg ödev2\pgOdev2\pgOdev2\pgOdev2.cpp(45,20): warning C4244: '=': 'float' - 'int' dönüşümü; veri kaybı olabilir
+C:\Users\canor\OneDrive\Masaüstü\g221210028 can örge pg ödev2\pgOdev2\pgOdev2\pgOdev2.cpp(80,21): warning C4244: '=': 'float' - 'int' dönüşümü; veri kaybı olabilir
+C:\Users\canor\OneDrive\Masaüstü\g221210028 can örge pg ödev2\pgOdev2\pgOdev2\pgOdev2.cpp(158,14): warning C4244: 'bağımsız değişken': 'time_t' - 'unsigned int' dönüşümü; veri kaybı olabilir
+C:\Users\canor\OneDrive\Masaüstü\g221210028 can örge pg ödev2\pgOdev2\pgOdev2\pgOdev2.cpp(182,39): warning C4244: '=': 'double' - 'float' dönüşümü; veri kaybı olabilir
+C:\Users\canor\OneDrive\Masaüstü\g221210028 can örge pg ödev2\pgOdev2\pgOdev2\pgOdev2.cpp(186,39): warning C4244: '=': 'double' - 'float' dönüşümü; veri kaybı olabilir
+C:\Users\canor\OneDrive\Masaüstü\g221210028 can örge pg ödev2\pgOdev2\pgOdev2\pgOdev2.cpp(232,39): warning C4244: '=': 'double' - 'float' dönüşümü; veri kaybı olabilir
+C:\Users\canor\OneDrive\Masaüstü\g221210028 can örge pg ödev2\pgOdev2\pgOdev2\pgOdev2.cpp(236,39): warning C4244: '=': 'double' - 'float' dönüşümü; veri kaybı olabilir
+  pgOdev2.vcxproj -> C:\Users\canor\OneDrive\Masaüstü\g221210028 can örge pg ödev2\pgOdev2\x64\Debug\pgOdev2.exe
